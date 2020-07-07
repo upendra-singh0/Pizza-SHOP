@@ -1,0 +1,4 @@
+order-service/node_modules
+order-service/.vscode
+order-service/.env
+order-service/package-lock.json

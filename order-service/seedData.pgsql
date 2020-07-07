@@ -1,0 +1,10 @@
+insert into user_table (first_name, last_name, email, previledge, username, user_password, offers) values ('Hayes', 'Ciccarelli', 'hciccarelli0@flickr.com', true, 'facebook', 'XXH2eE24d', ARRAY[1, 2]);
+insert into user_table (first_name, last_name, email, previledge, username, user_password, offers) values ('Dianemarie', 'Skoof', 'dskoof1@fda.gov', false, 'dskoof1', 'amazon', ARRAY[3]);
+insert into user_table (first_name, last_name, email, previledge, username, user_password, offers) values ('Gay', 'Westley', 'gwestley2@a8.net', false, 'gwestley2', 'infosys', ARRAY[4]);
+insert into user_table (first_name, last_name, email, previledge, username, user_password) values ('Anthia', 'Moules', 'amoules3@topsy.com', true, 'amoules3', 'cIPEm1nEh');
+insert into user_table (first_name, last_name, email, previledge, username, user_password) values ('Beale', 'Borer', 'bborer4@ovh.net', false, 'bborer4', 'bPqsjErEtDC');
+insert into user_table (first_name, last_name, email, previledge, username, user_password) values ('Bev', 'Pygott', 'bpygott5@acquirethisname.com', true, 'bpygott5', 'nYH9it');
+insert into user_table (first_name, last_name, email, previledge, username, user_password) values ('Loraine', 'Bloodworth', 'lbloodworth6@virginia.edu', false, 'lbloodworth6', '3sdPGlUn');
+insert into user_table (first_name, last_name, email, previledge, username, user_password) values ('Benton', 'Stoves', 'bstoves7@xing.com', true, 'bstoves7', 'MCVsFU4d8QN9');
+insert into user_table (first_name, last_name, email, previledge, username, user_password) values ('Celina', 'Fraanchyonok', 'cfraanchyonok8@imdb.com', true, 'cfraanchyonok8', '2VWxuU1xf7XP');
+insert into user_table (first_name, last_name, email, previledge, username, user_password) values ('Gertrud', 'Delooze', 'gdelooze9@slashdot.org', false, 'gdelooze9', 'fsuHmI5GS');
